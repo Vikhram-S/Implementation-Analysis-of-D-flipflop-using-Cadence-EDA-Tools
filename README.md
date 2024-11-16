@@ -2,11 +2,17 @@
 Ex No: 01     Implementation & Analysis of D-flipflop using Cadence EDA Tools   
 
 Aim:
-To design and implement a D-flip-flop using Cadence EDA tools, simulate its behavior, and analyze key performance parameters such as timing, power consumption, and resource utilization for a comprehensive understanding of sequential logic circuits.
+To design and implement a D-flip-flop using Cadence EDA tools, simulate its behavior, and analyze key perfoacrmance parameters such as timing, power consumption, and resource utilization for a comprehensive understanding of sequential logic circuits.
 
 Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
+
+Circuit Diagram:
+
+![IMG-20241115-WA0005](https://github.com/user-attachments/assets/65ea86c2-ccb3-4f94-b2ec-035f42896902)
+
+
 
 S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
 
@@ -47,7 +53,7 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![Screenshot 2024-10-21 183932](https://github.com/user-attachments/assets/85ddeb9d-29e3-4acc-859d-412f5eec89da)
+![Screenshot 2024-10-21 183932](https://github.com/user-attachments/assets/aa5a1ae8-d448-42ae-abe9-206b3c2d91e9)
 
 
 
@@ -66,8 +72,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Library Name and Cell Name must be same which you have used for schematic. Press OK
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
-
-![Screenshot 2024-10-21 184322](https://github.com/user-attachments/assets/e1fe7f87-a49b-4c53-b92e-aa0ab060ec89)
+![Screenshot 2024-10-21 184322](https://github.com/user-attachments/assets/7e57d9c0-ec1c-47ed-a24d-207686f31bda)
 
 
 
@@ -81,7 +86,7 @@ iv)	Creating the new test cell view
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
 
-![Screenshot 2024-10-21 185248](https://github.com/user-attachments/assets/2b126504-18eb-4fb2-8b64-e78155ed5822)
+![Screenshot 2024-10-21 185248](https://github.com/user-attachments/assets/7c652d51-59f0-4ca4-b63d-c40ac73c1454)
 
 
 
@@ -97,16 +102,16 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
  
-![Screenshot 2024-10-21 192323](https://github.com/user-attachments/assets/3f681ee4-d9b1-4807-a436-7a4ab1b79053)
+![Screenshot 2024-10-21 192323](https://github.com/user-attachments/assets/9a54381d-3da1-461c-910b-d2181612cbee)
 
 
 
-For Transient Analysis Settings and Output
+For Transient Analysis Settings 
  
-![Screenshot 2024-10-21 185609](https://github.com/user-attachments/assets/59774ee2-ac43-49c9-8b6c-1993d5bb9c2f)
+![Screenshot 2024-10-21 185609](https://github.com/user-attachments/assets/6d3d5199-bec0-4d64-b9fd-cbf55e6a92c5)
 
-
-![Screenshot 2024-10-21 192517](https://github.com/user-attachments/assets/8e8d8558-0e80-4a04-b4a6-18c799d01e5f)
+ Output
+ ![Screenshot 2024-10-21 192517](https://github.com/user-attachments/assets/595cee10-081e-49d8-af5c-923645123372)
 
 
 
