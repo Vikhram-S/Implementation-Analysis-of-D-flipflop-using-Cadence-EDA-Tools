@@ -1,5 +1,5 @@
-# Implementation-Analysis-of-D-flipflop-using-Cadence-EDA-Tools
-Ex No: 01     Implementation & Analysis of D-flipflop using Cadence EDA Tools   
+# Ex No: 03  Implementation-Analysis-of-D-flipflop-using-Cadence-EDA-Tools
+   
 
 Aim:
 To design and implement a D-flip-flop using Cadence EDA tools, simulate its behavior, and analyze key perfoacrmance parameters such as timing, power consumption, and resource utilization for a comprehensive understanding of sequential logic circuits.
